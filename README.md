@@ -11,5 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/64692097/83951124-04851480-a84d-11ea-972c-358cac2b150b.png)
 
-- Copy the jwttoken value and add as Authorization token with ***"Bearer "*** prefixed as per below screen shot. Then hit the below URL as GET. As ***Stephen*** has only ***USER role***, so it can only acces /user whereas ***Margreta*** has both ***USER and ADMIN role***, so it can access both ***/user and /admin***
+- Copy the jwttoken value and add as Authorization token with ***"Bearer "*** prefixed as per below screen shot (And prior to that make sure the Type should be ***No Auth selected on Authorization tab***). Then hit the below URL as GET. As ***Stephen*** has only ***USER role***, so it can only acces /user whereas ***Margreta*** has both ***USER and ADMIN role***, so it can access both ***/user and /admin***
+
+![image](https://user-images.githubusercontent.com/64692097/83951388-d4d70c00-a84e-11ea-91cf-4e38b819428e.png)
 
