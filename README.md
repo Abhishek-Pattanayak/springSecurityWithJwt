@@ -6,7 +6,7 @@
 
 ## Steps to test the application
 
-- Start the application which will run on port 8000
+- Start the application which will run on ***port 8000***
 - Then hit the below URL using Postman which will generate the ***JWT token*** for your current user (you need to generate token for each time you modify user)
 
 ![image](https://user-images.githubusercontent.com/64692097/83951124-04851480-a84d-11ea-972c-358cac2b150b.png)
